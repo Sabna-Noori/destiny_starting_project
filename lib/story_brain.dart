@@ -51,7 +51,6 @@ String getChoice1(String s){
   return
       _storyData[_stoeyNumber].choice1;
 }
-
   String getChoice2(String s){
     return
       _storyData[_stoeyNumber].choice2;

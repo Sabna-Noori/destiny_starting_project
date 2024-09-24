@@ -115,7 +115,7 @@ class _StoryPageState extends State<StoryPage> {
                   textDirection:
                    TextDirection.rtl,
                     style: TextStyle(
-                      color: Colors.white,
+                      color: Colors.pink,
                       fontSize: 20.0,
                     ),
                   ),
